@@ -1,0 +1,36 @@
+indev v.0.0.0 (DOS)
+(0 bugfixes, 0 modifications, 4 additions)
+(07.july.2018)
+[add] -- 80 column support
+[add] -- menu
+[add] -- credits screen
+[add] -- exit screen
+
+indev v.0.0.1 (DOS)
+(1 bugfixes, 0 modifications, 3 additions)
+(07.july.2018)
+[add] -- Title graphics 
+[add] -- 80 column color support
+[add] -- fight sequence added
+[fix] -- line overun issue
+
+indev v.0.0.2 (DOS)
+(0 bugfixes, 0 modifications, 4 additions)
+(07.july.2018)
+[add] -- launcher 
+[add] -- descreet monochrome mode
+[add] -- descreet color mode
+[add] -- base map added
+
+indev v.0.0.3 (DOS)
+(0 bugfixes, 0 modifications, 3 additions)
+(08.july.2018)
+[add] -- stairs
+[add] -- lion room
+[add] -- passcodes
+
+indev v.0.0.4 (DOS)
+(0 bugfixes, 1 modifications, 1 additions)
+(08.july.2018)
+[add] -- level 2 start
+[mod] -- passcode entry screen makes passcodes usefull
